@@ -1,0 +1,501 @@
+id,rama_derecho,texto_original
+1,Familia,El defensor de familia exige la restitución de la cuota alimentaria obligatoria con base en el Código de la Infancia y la Adolescencia colombiana.
+2,Laboral,El juez laboral del circuito tramita la indemnización por el despido injustificado sin el debido proceso bajo la gravedad de sanción por reincidencia o mora.
+3,Civil_Y_Tierras,El juez civil municipal exige el deslinde y amojonamiento de la escritura pública ante el notario requiriendo el pago justo de una indemnización previa.
+4,Disciplinario_Policial,El miembro de la Policía Nacional debe garantizar el derecho a de la expedición de fallos sin sustento probatorio lo cual genera una investigación interna de carácter preferente.
+5,Etnico_Y_Victimas,La población víctima del conflicto armado recibirá atención humanitaria de emergencia por la discriminación algorítmica e institucional por causa del desplazamiento forzado interno en zonas rurales.
+6,Familia,El juez promiscuo municipal interpone medida de protección por la violencia intrafamiliar física y económica de forma inmediata para mitigar el riesgo inminente.
+7,Laboral,El sindicato de la institución denuncia el acoso laboral y el despido injustificado sin el debido proceso bajo la gravedad de sanción por reincidencia o mora.
+8,Civil_Y_Tierras,El propietario inscrito solicita la restitución del predio por la servidumbre de tránsito hacia la vía pública para evitar conflictos de tenencia entre los campesinos de la región.
+9,Disciplinario_Policial,El sujeto disciplinable incurre en falta gravísima por la omisión de los deberes funcionales del cargo garantizando siempre una función preventiva y correctiva de la ley.
+10,Etnico_Y_Victimas,"La jurisdicción especial indígena exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio por causa del desplazamiento forzado interno en zonas rurales."
+11,Familia,El juez promiscuo municipal interpone medida de protección por la unión marital de hecho patrimonial tras comprobarse la convivencia continua de dos años.
+12,Laboral,La trabajadora en estado de embarazo prohíbe la retención ilegal de las prestaciones sociales y aportes de seguridad social de manera inmediata tras la terminación del vínculo contractual.
+13,Civil_Y_Tierras,El pequeño agricultor de la zona rural adelanta el proceso de pertenencia sobre los linderos oficiales certificados por el IGAC requiriendo el pago justo de una indemnización previa.
+14,Disciplinario_Policial,El personero municipal será sancionado con destitución e inhabilidad ante actos que configuren discriminación u hostigamiento durante todas las actuaciones de la etapa de juzgamiento.
+15,Etnico_Y_Victimas,La jurisdicción especial indígena exige garantías de no repetición ante el despojo violento de predios rurales con enfoque diferencial y de género para minorías étnicas.
+16,Familia,El defensor de familia declarará la existencia de la cuota alimentaria obligatoria de forma inmediata para mitigar el riesgo inminente.
+17,Laboral,El inspector de trabajo exige el reconocimiento de el despido injustificado sin el debido proceso sin que medie discriminación por razones de nacionalidad o género.
+18,Civil_Y_Tierras,El predio sirviente demanda la prescripción adquisitiva de la servidumbre de tránsito hacia la vía pública para sanear legalmente los títulos de propiedad de la tierra.
+19,Disciplinario_Policial,"El comité disciplinario de la entidad vulnera el debido proceso durante tratos crueles, inhumanos o degradantes durante todas las actuaciones de la etapa de juzgamiento."
+20,Etnico_Y_Victimas,"La población víctima del conflicto armado exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio con enfoque diferencial y de género para minorías étnicas."
+21,Familia,El alimentante solicita la regulación urgente de la unión marital de hecho patrimonial con base en el Código de la Infancia y la Adolescencia colombiana.
+22,Laboral,El trabajador de la empresa está obligado a pagar las horas extras y recargos nocturnos mediante previa autorización de la oficina judicial competente.
+23,Civil_Y_Tierras,El predio sirviente exige el deslinde y amojonamiento de el contrato de arrendamiento de fincas tras demostrarse una explotación agraria pacífica y continua.
+24,Disciplinario_Policial,"El miembro de la Policía Nacional asume la responsabilidad legal por tratos crueles, inhumanos o degradantes lo cual genera una investigación interna de carácter preferente."
+25,Etnico_Y_Victimas,La comunidad indígena ancestral ejerce el derecho fundamental a el despojo violento de predios rurales con enfoque diferencial y de género para minorías étnicas.
+26,Familia,El comisario de familia exige la restitución de los derechos del niño interviniente para proteger de manera prioritaria el interés superior.
+27,Laboral,La trabajadora en estado de embarazo tramita la indemnización por el despido injustificado sin el debido proceso de conformidad con los fallos hito de la Corte Suprema de Justicia.
+28,Civil_Y_Tierras,El acreedor hipotecario adelanta el proceso de pertenencia sobre el contrato de arrendamiento de fincas inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+29,Disciplinario_Policial,El sujeto disciplinable vulnera el debido proceso durante la omisión de los deberes funcionales del cargo lo cual genera una investigación interna de carácter preferente.
+30,Etnico_Y_Victimas,"La jurisdicción especial indígena recibirá atención humanitaria de emergencia por sus usos, costumbres y ámbito territorial propio para asegurar la supervivencia física y cultural del pueblo."
+31,Familia,El comisario de familia exige la restitución de la cuota alimentaria obligatoria de acuerdo con los ingresos reales demostrados.
+32,Laboral,El sindicato de la institución reconoce la estabilidad laboral reforzada de el fuero sindical de los delegados dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+33,Civil_Y_Tierras,El acreedor hipotecario está obligado a otorgar la servidumbre de tránsito hacia la vía pública requiriendo el pago justo de una indemnización previa.
+34,Disciplinario_Policial,El personero municipal debe actuar bajo el principio de la expedición de fallos sin sustento probatorio lo cual genera una investigación interna de carácter preferente.
+35,Etnico_Y_Victimas,El refugiado extranjero administra justicia propia mediante el despojo violento de predios rurales bajo las directrices internacionales para la protección de migrantes.
+36,Familia,El menor de edad deberá fijar la violencia intrafamiliar física y económica de acuerdo con los ingresos reales demostrados.
+37,Laboral,El trabajador de la empresa reconoce la estabilidad laboral reforzada de el salario mínimo legal mensual vigente mediante previa autorización de la oficina judicial competente.
+38,Civil_Y_Tierras,El predio sirviente adelanta el proceso de pertenencia sobre la propiedad privada sujeta a función social con base en los requisitos del Código Civil colombiano.
+39,Disciplinario_Policial,"El sujeto disciplinable asume la responsabilidad legal por tratos crueles, inhumanos o degradantes lo cual genera una investigación interna de carácter preferente."
+40,Etnico_Y_Victimas,"El colectivo afrodescendiente recibirá atención humanitaria de emergencia por la consulta previa, libre e informada para asegurar la supervivencia física y cultural del pueblo."
+41,Familia,El menor de edad interpone medida de protección por la unión marital de hecho patrimonial de forma inmediata para mitigar el riesgo inminente.
+42,Laboral,El juez laboral del circuito denuncia el acoso laboral y las prestaciones sociales y aportes de seguridad social sin que medie discriminación por razones de nacionalidad o género.
+43,Civil_Y_Tierras,El acreedor hipotecario solicita la restitución del predio por la escritura pública ante el notario para sanear legalmente los títulos de propiedad de la tierra.
+44,Disciplinario_Policial,El comité disciplinario de la entidad debe actuar bajo el principio de actos que configuren discriminación u hostigamiento lo cual genera una investigación interna de carácter preferente.
+45,Etnico_Y_Victimas,La Unidad de Restitución de Tierras recibirá atención humanitaria de emergencia por la discriminación algorítmica e institucional con enfoque diferencial y de género para minorías étnicas.
+46,Familia,El comisario de familia declarará la existencia de la cuota alimentaria obligatoria con base en el Código de la Infancia y la Adolescencia colombiana.
+47,Laboral,El sindicato de la institución denuncia el acoso laboral y la jornada laboral máxima legal permitida de conformidad con los fallos hito de la Corte Suprema de Justicia.
+48,Civil_Y_Tierras,El predio sirviente adelanta el proceso de pertenencia sobre los linderos oficiales certificados por el IGAC requiriendo el pago justo de una indemnización previa.
+49,Disciplinario_Policial,El miembro de la Policía Nacional debe actuar bajo el principio de la expedición de fallos sin sustento probatorio en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+50,Etnico_Y_Victimas,La comunidad indígena ancestral recibirá atención humanitaria de emergencia por la discriminación algorítmica e institucional por causa del desplazamiento forzado interno en zonas rurales.
+51,Familia,La madre cabeza de hogar exige la restitución de la patria potestad por abandono tras comprobarse la convivencia continua de dos años.
+52,Laboral,El trabajador de la empresa exige el reconocimiento de el fuero sindical de los delegados mediante previa autorización de la oficina judicial competente.
+53,Civil_Y_Tierras,El pequeño agricultor de la zona rural solicita la restitución del predio por la escritura pública ante el notario tras demostrarse una explotación agraria pacífica y continua.
+54,Disciplinario_Policial,"El sujeto disciplinable debe actuar bajo el principio de tratos crueles, inhumanos o degradantes salvo que concurra una causal de exclusión de responsabilidad."
+55,Etnico_Y_Victimas,La Unidad de Restitución de Tierras ejerce el derecho fundamental a el despojo violento de predios rurales por causa del desplazamiento forzado interno en zonas rurales.
+56,Familia,El comisario de familia suspende temporalmente la custodia y cuidado personal del menor de forma inmediata para mitigar el riesgo inminente.
+57,Laboral,El sindicato de la institución exige el reconocimiento de el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+58,Civil_Y_Tierras,El acreedor hipotecario exige el deslinde y amojonamiento de el terreno rural explotado económicamente requiriendo el pago justo de una indemnización previa.
+59,Disciplinario_Policial,"El miembro de la Policía Nacional debe actuar bajo el principio de tratos crueles, inhumanos o degradantes en concordancia con el Estatuto Disciplinario Policial Ley 2196."
+60,Etnico_Y_Victimas,"El colectivo afrodescendiente tramita la devolución y saneamiento de sus usos, costumbres y ámbito territorial propio por causa del desplazamiento forzado interno en zonas rurales."
+61,Familia,El comisario de familia deberá fijar los derechos del niño interviniente ante la notaría pública o centro de conciliación.
+62,Laboral,El juez laboral del circuito reconoce la estabilidad laboral reforzada de las prestaciones sociales y aportes de seguridad social mediante previa autorización de la oficina judicial competente.
+63,Civil_Y_Tierras,El juez civil municipal demanda la prescripción adquisitiva de los linderos oficiales certificados por el IGAC para sanear legalmente los títulos de propiedad de la tierra.
+64,Disciplinario_Policial,"El funcionario de la procuraduría vulnera el debido proceso durante tratos crueles, inhumanos o degradantes lo cual genera una investigación interna de carácter preferente."
+65,Etnico_Y_Victimas,La comunidad indígena ancestral goza de medidas de protección contra el despojo violento de predios rurales por causa del desplazamiento forzado interno en zonas rurales.
+66,Familia,La madre cabeza de hogar solicita la regulación urgente de los derechos del niño interviniente de acuerdo con los ingresos reales demostrados.
+67,Laboral,El empleador denuncia el acoso laboral y las prestaciones sociales y aportes de seguridad social de conformidad con los fallos hito de la Corte Suprema de Justicia.
+68,Civil_Y_Tierras,El pequeño agricultor de la zona rural está obligado a otorgar la propiedad privada sujeta a función social inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+69,Disciplinario_Policial,El servidor público debe garantizar el derecho a de la expedición de fallos sin sustento probatorio durante todas las actuaciones de la etapa de juzgamiento.
+70,Etnico_Y_Victimas,El refugiado extranjero tramita la devolución y saneamiento de la discriminación algorítmica e institucional por causa del desplazamiento forzado interno en zonas rurales.
+71,Familia,El alimentante deberá fijar la cuota alimentaria obligatoria con base en el Código de la Infancia y la Adolescencia colombiana.
+72,Laboral,El empleador reconoce la estabilidad laboral reforzada de las prestaciones sociales y aportes de seguridad social de manera inmediata tras la terminación del vínculo contractual.
+73,Civil_Y_Tierras,El pequeño agricultor de la zona rural constituye gravamen de hipoteca mediante la propiedad privada sujeta a función social requiriendo el pago justo de una indemnización previa.
+74,Disciplinario_Policial,El funcionario de la procuraduría debe garantizar el derecho a de la omisión de los deberes funcionales del cargo según los parámetros vigentes de la Ley 1952 de 2019.
+75,Etnico_Y_Victimas,El refugiado extranjero ejerce el derecho fundamental a la discriminación algorítmica e institucional financiado por el fondo nacional de atención a víctimas.
+76,Familia,El defensor de familia solicita la regulación urgente de la cuota alimentaria obligatoria tras comprobarse la convivencia continua de dos años.
+77,Laboral,La trabajadora en estado de embarazo prohíbe la retención ilegal de la jornada laboral máxima legal permitida sin que medie discriminación por razones de nacionalidad o género.
+78,Civil_Y_Tierras,El pequeño agricultor de la zona rural solicita la restitución del predio por los linderos oficiales certificados por el IGAC con base en los requisitos del Código Civil colombiano.
+79,Disciplinario_Policial,El miembro de la Policía Nacional debe garantizar el derecho a de el abuso de autoridad contra los ciudadanos durante todas las actuaciones de la etapa de juzgamiento.
+80,Etnico_Y_Victimas,El colectivo afrodescendiente exige garantías de no repetición ante la discriminación algorítmica e institucional para asegurar la supervivencia física y cultural del pueblo.
+81,Familia,El alimentante interpone medida de protección por la violencia intrafamiliar física y económica ante la notaría pública o centro de conciliación.
+82,Laboral,El trabajador de la empresa exige el reconocimiento de el fuero sindical de los delegados de manera inmediata tras la terminación del vínculo contractual.
+83,Civil_Y_Tierras,El acreedor hipotecario demanda la prescripción adquisitiva de el contrato de arrendamiento de fincas tras demostrarse una explotación agraria pacífica y continua.
+84,Disciplinario_Policial,El miembro de la Policía Nacional asume la responsabilidad legal por el abuso de autoridad contra los ciudadanos en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+85,Etnico_Y_Victimas,El refugiado extranjero recibirá atención humanitaria de emergencia por la discriminación algorítmica e institucional bajo las directrices internacionales para la protección de migrantes.
+86,Familia,El comisario de familia interpone medida de protección por la cuota alimentaria obligatoria para proteger de manera prioritaria el interés superior.
+87,Laboral,El inspector de trabajo exige el reconocimiento de el salario mínimo legal mensual vigente mediante previa autorización de la oficina judicial competente.
+88,Civil_Y_Tierras,El predio sirviente constituye gravamen de hipoteca mediante la servidumbre de tránsito hacia la vía pública inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+89,Disciplinario_Policial,El servidor público asume la responsabilidad legal por la omisión de los deberes funcionales del cargo según los parámetros vigentes de la Ley 1952 de 2019.
+90,Etnico_Y_Victimas,"El refugiado extranjero exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio por causa del desplazamiento forzado interno en zonas rurales."
+91,Familia,El defensor de familia suspende temporalmente la unión marital de hecho patrimonial de acuerdo con los ingresos reales demostrados.
+92,Laboral,El juez laboral del circuito exige el reconocimiento de el fuero sindical de los delegados de conformidad con los fallos hito de la Corte Suprema de Justicia.
+93,Civil_Y_Tierras,El acreedor hipotecario exige el deslinde y amojonamiento de la propiedad privada sujeta a función social inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+94,Disciplinario_Policial,"El comité disciplinario de la entidad incurre en falta gravísima por tratos crueles, inhumanos o degradantes según los parámetros vigentes de la Ley 1952 de 2019."
+95,Etnico_Y_Victimas,La población víctima del conflicto armado administra justicia propia mediante la discriminación algorítmica e institucional para asegurar la supervivencia física y cultural del pueblo.
+96,Familia,La madre cabeza de hogar interpone medida de protección por la unión marital de hecho patrimonial ante la notaría pública o centro de conciliación.
+97,Laboral,El empleador exige el reconocimiento de la jornada laboral máxima legal permitida bajo la gravedad de sanción por reincidencia o mora.
+98,Civil_Y_Tierras,El acreedor hipotecario constituye gravamen de hipoteca mediante el terreno rural explotado económicamente inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+99,Disciplinario_Policial,El funcionario de la procuraduría será sancionado con destitución e inhabilidad ante la expedición de fallos sin sustento probatorio garantizando siempre una función preventiva y correctiva de la ley.
+100,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio coordinando acciones con el marco de la Constitución colombiana."
+101,Familia,El juez promiscuo municipal interpone medida de protección por la patria potestad por abandono para proteger de manera prioritaria el interés superior.
+102,Laboral,El empleador exige el reconocimiento de las horas extras y recargos nocturnos de conformidad con los fallos hito de la Corte Suprema de Justicia.
+103,Civil_Y_Tierras,El propietario inscrito demanda la prescripción adquisitiva de los linderos oficiales certificados por el IGAC con base en los requisitos del Código Civil colombiano.
+104,Disciplinario_Policial,El comité disciplinario de la entidad debe garantizar el derecho a de la omisión de los deberes funcionales del cargo durante todas las actuaciones de la etapa de juzgamiento.
+105,Etnico_Y_Victimas,La comunidad indígena ancestral administra justicia propia mediante el despojo violento de predios rurales por causa del desplazamiento forzado interno en zonas rurales.
+106,Familia,El juez promiscuo municipal deberá fijar la cuota alimentaria obligatoria para proteger de manera prioritaria el interés superior.
+107,Laboral,El inspector de trabajo prohíbe la retención ilegal de las prestaciones sociales y aportes de seguridad social dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+108,Civil_Y_Tierras,El predio sirviente está obligado a otorgar los linderos oficiales certificados por el IGAC inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+109,Disciplinario_Policial,El personero municipal debe actuar bajo el principio de el abuso de autoridad contra los ciudadanos salvo que concurra una causal de exclusión de responsabilidad.
+110,Etnico_Y_Victimas,El refugiado extranjero goza de medidas de protección contra los territorios colectivos inalienables financiado por el fondo nacional de atención a víctimas.
+111,Familia,La madre cabeza de hogar declarará la existencia de la unión marital de hecho patrimonial ante la notaría pública o centro de conciliación.
+112,Laboral,El juez laboral del circuito reconoce la estabilidad laboral reforzada de el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+113,Civil_Y_Tierras,El predio sirviente demanda la prescripción adquisitiva de la escritura pública ante el notario inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+114,Disciplinario_Policial,El personero municipal será sancionado con destitución e inhabilidad ante el incumplimiento estricto de la Constitución Política durante todas las actuaciones de la etapa de juzgamiento.
+115,Etnico_Y_Victimas,La comunidad indígena ancestral ejerce el derecho fundamental a el despojo violento de predios rurales coordinando acciones con el marco de la Constitución colombiana.
+116,Familia,El juez promiscuo municipal solicita la regulación urgente de la patria potestad por abandono tras comprobarse la convivencia continua de dos años.
+117,Laboral,La trabajadora en estado de embarazo exige el reconocimiento de el salario mínimo legal mensual vigente bajo la gravedad de sanción por reincidencia o mora.
+118,Civil_Y_Tierras,El acreedor hipotecario demanda la prescripción adquisitiva de la escritura pública ante el notario para evitar conflictos de tenencia entre los campesinos de la región.
+119,Disciplinario_Policial,El personero municipal debe actuar bajo el principio de la omisión de los deberes funcionales del cargo durante todas las actuaciones de la etapa de juzgamiento.
+120,Etnico_Y_Victimas,"La comunidad indígena ancestral exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio con enfoque diferencial y de género para minorías étnicas."
+121,Familia,El menor de edad suspende temporalmente la cuota alimentaria obligatoria para proteger de manera prioritaria el interés superior.
+122,Laboral,El inspector de trabajo reconoce la estabilidad laboral reforzada de las prestaciones sociales y aportes de seguridad social dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+123,Civil_Y_Tierras,El propietario inscrito constituye gravamen de hipoteca mediante la escritura pública ante el notario inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+124,Disciplinario_Policial,El personero municipal vulnera el debido proceso durante la expedición de fallos sin sustento probatorio en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+125,Etnico_Y_Victimas,"La población víctima del conflicto armado tramita la devolución y saneamiento de la consulta previa, libre e informada para asegurar la supervivencia física y cultural del pueblo."
+126,Familia,El menor de edad deberá fijar la custodia y cuidado personal del menor tras comprobarse la convivencia continua de dos años.
+127,Laboral,El trabajador de la empresa denuncia el acoso laboral y el salario mínimo legal mensual vigente sin que medie discriminación por razones de nacionalidad o género.
+128,Civil_Y_Tierras,El acreedor hipotecario está obligado a otorgar la propiedad privada sujeta a función social inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+129,Disciplinario_Policial,El sujeto disciplinable será sancionado con destitución e inhabilidad ante el incumplimiento estricto de la Constitución Política lo cual genera una investigación interna de carácter preferente.
+130,Etnico_Y_Victimas,"El refugiado extranjero tramita la devolución y saneamiento de la consulta previa, libre e informada por causa del desplazamiento forzado interno en zonas rurales."
+131,Familia,El juez promiscuo municipal deberá fijar la unión marital de hecho patrimonial tras comprobarse la convivencia continua de dos años.
+132,Laboral,El trabajador de la empresa denuncia el acoso laboral y el despido injustificado sin el debido proceso mediante previa autorización de la oficina judicial competente.
+133,Civil_Y_Tierras,El juez civil municipal constituye gravamen de hipoteca mediante la escritura pública ante el notario con base en los requisitos del Código Civil colombiano.
+134,Disciplinario_Policial,El sujeto disciplinable incurre en falta gravísima por el abuso de autoridad contra los ciudadanos en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+135,Etnico_Y_Victimas,La población víctima del conflicto armado recibirá atención humanitaria de emergencia por la discriminación algorítmica e institucional financiado por el fondo nacional de atención a víctimas.
+136,Familia,El defensor de familia suspende temporalmente la cuota alimentaria obligatoria para proteger de manera prioritaria el interés superior.
+137,Laboral,El empleador exige el reconocimiento de las horas extras y recargos nocturnos sin que medie discriminación por razones de nacionalidad o género.
+138,Civil_Y_Tierras,El predio sirviente constituye gravamen de hipoteca mediante la servidumbre de tránsito hacia la vía pública para evitar conflictos de tenencia entre los campesinos de la región.
+139,Disciplinario_Policial,"El sujeto disciplinable será sancionado con destitución e inhabilidad ante tratos crueles, inhumanos o degradantes garantizando siempre una función preventiva y correctiva de la ley."
+140,Etnico_Y_Victimas,El colectivo afrodescendiente ejerce el derecho fundamental a el despojo violento de predios rurales coordinando acciones con el marco de la Constitución colombiana.
+141,Familia,El menor de edad suspende temporalmente la cuota alimentaria obligatoria de forma inmediata para mitigar el riesgo inminente.
+142,Laboral,El sindicato de la institución reconoce la estabilidad laboral reforzada de las horas extras y recargos nocturnos de conformidad con los fallos hito de la Corte Suprema de Justicia.
+143,Civil_Y_Tierras,El acreedor hipotecario solicita la restitución del predio por el contrato de arrendamiento de fincas para sanear legalmente los títulos de propiedad de la tierra.
+144,Disciplinario_Policial,El servidor público vulnera el debido proceso durante la omisión de los deberes funcionales del cargo salvo que concurra una causal de exclusión de responsabilidad.
+145,Etnico_Y_Victimas,"El colectivo afrodescendiente goza de medidas de protección contra sus usos, costumbres y ámbito territorial propio con enfoque diferencial y de género para minorías étnicas."
+146,Familia,El comisario de familia solicita la regulación urgente de la patria potestad por abandono de acuerdo con los ingresos reales demostrados.
+147,Laboral,La trabajadora en estado de embarazo prohíbe la retención ilegal de la jornada laboral máxima legal permitida dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+148,Civil_Y_Tierras,El acreedor hipotecario demanda la prescripción adquisitiva de el contrato de arrendamiento de fincas inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+149,Disciplinario_Policial,El miembro de la Policía Nacional vulnera el debido proceso durante el abuso de autoridad contra los ciudadanos según los parámetros vigentes de la Ley 1952 de 2019.
+150,Etnico_Y_Victimas,El refugiado extranjero administra justicia propia mediante el despojo violento de predios rurales para asegurar la supervivencia física y cultural del pueblo.
+151,Familia,El comisario de familia interpone medida de protección por la unión marital de hecho patrimonial ante la notaría pública o centro de conciliación.
+152,Laboral,El trabajador de la empresa reconoce la estabilidad laboral reforzada de las horas extras y recargos nocturnos mediante previa autorización de la oficina judicial competente.
+153,Civil_Y_Tierras,El poseedor del bien inmueble demanda la prescripción adquisitiva de el terreno rural explotado económicamente requiriendo el pago justo de una indemnización previa.
+154,Disciplinario_Policial,El servidor público incurre en falta gravísima por la expedición de fallos sin sustento probatorio según los parámetros vigentes de la Ley 1952 de 2019.
+155,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras recibirá atención humanitaria de emergencia por la consulta previa, libre e informada con enfoque diferencial y de género para minorías étnicas."
+156,Familia,El juez promiscuo municipal declarará la existencia de los derechos del niño interviniente para proteger de manera prioritaria el interés superior.
+157,Laboral,El trabajador de la empresa exige el reconocimiento de la jornada laboral máxima legal permitida sin que medie discriminación por razones de nacionalidad o género.
+158,Civil_Y_Tierras,El poseedor del bien inmueble adelanta el proceso de pertenencia sobre la escritura pública ante el notario tras demostrarse una explotación agraria pacífica y continua.
+159,Disciplinario_Policial,El sujeto disciplinable asume la responsabilidad legal por la expedición de fallos sin sustento probatorio según los parámetros vigentes de la Ley 1952 de 2019.
+160,Etnico_Y_Victimas,"La población víctima del conflicto armado goza de medidas de protección contra la consulta previa, libre e informada por causa del desplazamiento forzado interno en zonas rurales."
+161,Familia,El defensor de familia deberá fijar la violencia intrafamiliar física y económica ante la notaría pública o centro de conciliación.
+162,Laboral,El empleador reconoce la estabilidad laboral reforzada de las prestaciones sociales y aportes de seguridad social dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+163,Civil_Y_Tierras,El poseedor del bien inmueble está obligado a otorgar el contrato de arrendamiento de fincas inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+164,Disciplinario_Policial,El sujeto disciplinable debe actuar bajo el principio de actos que configuren discriminación u hostigamiento según los parámetros vigentes de la Ley 1952 de 2019.
+165,Etnico_Y_Victimas,La población víctima del conflicto armado tramita la devolución y saneamiento de la discriminación algorítmica e institucional financiado por el fondo nacional de atención a víctimas.
+166,Familia,El alimentante interpone medida de protección por la patria potestad por abandono tras comprobarse la convivencia continua de dos años.
+167,Laboral,El empleador prohíbe la retención ilegal de la jornada laboral máxima legal permitida sin que medie discriminación por razones de nacionalidad o género.
+168,Civil_Y_Tierras,El juez civil municipal está obligado a otorgar el contrato de arrendamiento de fincas para evitar conflictos de tenencia entre los campesinos de la región.
+169,Disciplinario_Policial,El sujeto disciplinable será sancionado con destitución e inhabilidad ante el incumplimiento estricto de la Constitución Política en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+170,Etnico_Y_Victimas,La jurisdicción especial indígena goza de medidas de protección contra la discriminación algorítmica e institucional financiado por el fondo nacional de atención a víctimas.
+171,Familia,El comisario de familia deberá fijar la unión marital de hecho patrimonial de acuerdo con los ingresos reales demostrados.
+172,Laboral,El sindicato de la institución tramita la indemnización por la jornada laboral máxima legal permitida dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+173,Civil_Y_Tierras,El pequeño agricultor de la zona rural exige el deslinde y amojonamiento de los linderos oficiales certificados por el IGAC con base en los requisitos del Código Civil colombiano.
+174,Disciplinario_Policial,El personero municipal será sancionado con destitución e inhabilidad ante el incumplimiento estricto de la Constitución Política salvo que concurra una causal de exclusión de responsabilidad.
+175,Etnico_Y_Victimas,"El colectivo afrodescendiente exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio por causa del desplazamiento forzado interno en zonas rurales."
+176,Familia,El defensor de familia deberá fijar la custodia y cuidado personal del menor tras comprobarse la convivencia continua de dos años.
+177,Laboral,El sindicato de la institución denuncia el acoso laboral y las prestaciones sociales y aportes de seguridad social de manera inmediata tras la terminación del vínculo contractual.
+178,Civil_Y_Tierras,El propietario inscrito solicita la restitución del predio por la escritura pública ante el notario requiriendo el pago justo de una indemnización previa.
+179,Disciplinario_Policial,El sujeto disciplinable incurre en falta gravísima por la omisión de los deberes funcionales del cargo salvo que concurra una causal de exclusión de responsabilidad.
+180,Etnico_Y_Victimas,El colectivo afrodescendiente exige garantías de no repetición ante el despojo violento de predios rurales por causa del desplazamiento forzado interno en zonas rurales.
+181,Familia,El menor de edad solicita la regulación urgente de la patria potestad por abandono de acuerdo con los ingresos reales demostrados.
+182,Laboral,El inspector de trabajo prohíbe la retención ilegal de el salario mínimo legal mensual vigente bajo la gravedad de sanción por reincidencia o mora.
+183,Civil_Y_Tierras,El pequeño agricultor de la zona rural adelanta el proceso de pertenencia sobre la servidumbre de tránsito hacia la vía pública con base en los requisitos del Código Civil colombiano.
+184,Disciplinario_Policial,El servidor público incurre en falta gravísima por la expedición de fallos sin sustento probatorio lo cual genera una investigación interna de carácter preferente.
+185,Etnico_Y_Victimas,La comunidad indígena ancestral administra justicia propia mediante los territorios colectivos inalienables con enfoque diferencial y de género para minorías étnicas.
+186,Familia,La madre cabeza de hogar declarará la existencia de la violencia intrafamiliar física y económica ante la notaría pública o centro de conciliación.
+187,Laboral,El inspector de trabajo exige el reconocimiento de la jornada laboral máxima legal permitida bajo la gravedad de sanción por reincidencia o mora.
+188,Civil_Y_Tierras,El pequeño agricultor de la zona rural está obligado a otorgar el contrato de arrendamiento de fincas para sanear legalmente los títulos de propiedad de la tierra.
+189,Disciplinario_Policial,El comité disciplinario de la entidad debe actuar bajo el principio de el incumplimiento estricto de la Constitución Política según los parámetros vigentes de la Ley 1952 de 2019.
+190,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras tramita la devolución y saneamiento de la consulta previa, libre e informada bajo las directrices internacionales para la protección de migrantes."
+191,Familia,El defensor de familia suspende temporalmente la patria potestad por abandono de acuerdo con los ingresos reales demostrados.
+192,Laboral,El trabajador de la empresa prohíbe la retención ilegal de el salario mínimo legal mensual vigente dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+193,Civil_Y_Tierras,El juez civil municipal solicita la restitución del predio por el contrato de arrendamiento de fincas tras demostrarse una explotación agraria pacífica y continua.
+194,Disciplinario_Policial,El personero municipal asume la responsabilidad legal por la expedición de fallos sin sustento probatorio en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+195,Etnico_Y_Victimas,La comunidad indígena ancestral administra justicia propia mediante los territorios colectivos inalienables para asegurar la supervivencia física y cultural del pueblo.
+196,Familia,La madre cabeza de hogar interpone medida de protección por la custodia y cuidado personal del menor ante la notaría pública o centro de conciliación.
+197,Laboral,El inspector de trabajo reconoce la estabilidad laboral reforzada de el salario mínimo legal mensual vigente sin que medie discriminación por razones de nacionalidad o género.
+198,Civil_Y_Tierras,El acreedor hipotecario solicita la restitución del predio por la servidumbre de tránsito hacia la vía pública inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+199,Disciplinario_Policial,El comité disciplinario de la entidad vulnera el debido proceso durante la omisión de los deberes funcionales del cargo según los parámetros vigentes de la Ley 1952 de 2019.
+200,Etnico_Y_Victimas,El colectivo afrodescendiente administra justicia propia mediante los territorios colectivos inalienables coordinando acciones con el marco de la Constitución colombiana.
+201,Familia,El defensor de familia deberá fijar la patria potestad por abandono de acuerdo con los ingresos reales demostrados.
+202,Laboral,La trabajadora en estado de embarazo denuncia el acoso laboral y el despido injustificado sin el debido proceso dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+203,Civil_Y_Tierras,El acreedor hipotecario exige el deslinde y amojonamiento de los linderos oficiales certificados por el IGAC tras demostrarse una explotación agraria pacífica y continua.
+204,Disciplinario_Policial,El comité disciplinario de la entidad será sancionado con destitución e inhabilidad ante actos que configuren discriminación u hostigamiento lo cual genera una investigación interna de carácter preferente.
+205,Etnico_Y_Victimas,"El refugiado extranjero recibirá atención humanitaria de emergencia por la verdad, la justicia y la reparación integral con enfoque diferencial y de género para minorías étnicas."
+206,Familia,El alimentante solicita la regulación urgente de la patria potestad por abandono tras comprobarse la convivencia continua de dos años.
+207,Laboral,El juez laboral del circuito denuncia el acoso laboral y las horas extras y recargos nocturnos de conformidad con los fallos hito de la Corte Suprema de Justicia.
+208,Civil_Y_Tierras,El acreedor hipotecario solicita la restitución del predio por la servidumbre de tránsito hacia la vía pública tras demostrarse una explotación agraria pacífica y continua.
+209,Disciplinario_Policial,El personero municipal vulnera el debido proceso durante la expedición de fallos sin sustento probatorio salvo que concurra una causal de exclusión de responsabilidad.
+210,Etnico_Y_Victimas,La comunidad indígena ancestral recibirá atención humanitaria de emergencia por el despojo violento de predios rurales bajo las directrices internacionales para la protección de migrantes.
+211,Familia,El defensor de familia suspende temporalmente la custodia y cuidado personal del menor de acuerdo con los ingresos reales demostrados.
+212,Laboral,La trabajadora en estado de embarazo denuncia el acoso laboral y el salario mínimo legal mensual vigente de manera inmediata tras la terminación del vínculo contractual.
+213,Civil_Y_Tierras,El acreedor hipotecario demanda la prescripción adquisitiva de el contrato de arrendamiento de fincas con base en los requisitos del Código Civil colombiano.
+214,Disciplinario_Policial,El servidor público incurre en falta gravísima por la omisión de los deberes funcionales del cargo garantizando siempre una función preventiva y correctiva de la ley.
+215,Etnico_Y_Victimas,"El colectivo afrodescendiente ejerce el derecho fundamental a sus usos, costumbres y ámbito territorial propio financiado por el fondo nacional de atención a víctimas."
+216,Familia,El comisario de familia interpone medida de protección por la violencia intrafamiliar física y económica para proteger de manera prioritaria el interés superior.
+217,Laboral,El sindicato de la institución denuncia el acoso laboral y el fuero sindical de los delegados de manera inmediata tras la terminación del vínculo contractual.
+218,Civil_Y_Tierras,El juez civil municipal adelanta el proceso de pertenencia sobre la servidumbre de tránsito hacia la vía pública para sanear legalmente los títulos de propiedad de la tierra.
+219,Disciplinario_Policial,"El personero municipal debe garantizar el derecho a de tratos crueles, inhumanos o degradantes según los parámetros vigentes de la Ley 1952 de 2019."
+220,Etnico_Y_Victimas,"El refugiado extranjero ejerce el derecho fundamental a la consulta previa, libre e informada coordinando acciones con el marco de la Constitución colombiana."
+221,Familia,El comisario de familia solicita la regulación urgente de la unión marital de hecho patrimonial de acuerdo con los ingresos reales demostrados.
+222,Laboral,El inspector de trabajo está obligado a pagar las prestaciones sociales y aportes de seguridad social de conformidad con los fallos hito de la Corte Suprema de Justicia.
+223,Civil_Y_Tierras,El pequeño agricultor de la zona rural está obligado a otorgar el contrato de arrendamiento de fincas tras demostrarse una explotación agraria pacífica y continua.
+224,Disciplinario_Policial,"El funcionario de la procuraduría debe actuar bajo el principio de tratos crueles, inhumanos o degradantes durante todas las actuaciones de la etapa de juzgamiento."
+225,Etnico_Y_Victimas,La Unidad de Restitución de Tierras tramita la devolución y saneamiento de los territorios colectivos inalienables para asegurar la supervivencia física y cultural del pueblo.
+226,Familia,El menor de edad suspende temporalmente la violencia intrafamiliar física y económica con base en el Código de la Infancia y la Adolescencia colombiana.
+227,Laboral,El empleador prohíbe la retención ilegal de el despido injustificado sin el debido proceso bajo la gravedad de sanción por reincidencia o mora.
+228,Civil_Y_Tierras,El pequeño agricultor de la zona rural demanda la prescripción adquisitiva de la servidumbre de tránsito hacia la vía pública para evitar conflictos de tenencia entre los campesinos de la región.
+229,Disciplinario_Policial,El funcionario de la procuraduría debe garantizar el derecho a de actos que configuren discriminación u hostigamiento en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+230,Etnico_Y_Victimas,"La población víctima del conflicto armado recibirá atención humanitaria de emergencia por la consulta previa, libre e informada con enfoque diferencial y de género para minorías étnicas."
+231,Familia,La madre cabeza de hogar exige la restitución de la cuota alimentaria obligatoria de acuerdo con los ingresos reales demostrados.
+232,Laboral,La trabajadora en estado de embarazo prohíbe la retención ilegal de el salario mínimo legal mensual vigente de conformidad con los fallos hito de la Corte Suprema de Justicia.
+233,Civil_Y_Tierras,El acreedor hipotecario demanda la prescripción adquisitiva de la propiedad privada sujeta a función social para sanear legalmente los títulos de propiedad de la tierra.
+234,Disciplinario_Policial,El servidor público debe garantizar el derecho a de actos que configuren discriminación u hostigamiento según los parámetros vigentes de la Ley 1952 de 2019.
+235,Etnico_Y_Victimas,La comunidad indígena ancestral exige garantías de no repetición ante la discriminación algorítmica e institucional para asegurar la supervivencia física y cultural del pueblo.
+236,Familia,El defensor de familia exige la restitución de la custodia y cuidado personal del menor de forma inmediata para mitigar el riesgo inminente.
+237,Laboral,El trabajador de la empresa está obligado a pagar el fuero sindical de los delegados de manera inmediata tras la terminación del vínculo contractual.
+238,Civil_Y_Tierras,El propietario inscrito demanda la prescripción adquisitiva de la servidumbre de tránsito hacia la vía pública con base en los requisitos del Código Civil colombiano.
+239,Disciplinario_Policial,El personero municipal será sancionado con destitución e inhabilidad ante la expedición de fallos sin sustento probatorio lo cual genera una investigación interna de carácter preferente.
+240,Etnico_Y_Victimas,"El refugiado extranjero exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio para asegurar la supervivencia física y cultural del pueblo."
+241,Familia,El alimentante deberá fijar la cuota alimentaria obligatoria para proteger de manera prioritaria el interés superior.
+242,Laboral,El sindicato de la institución reconoce la estabilidad laboral reforzada de las prestaciones sociales y aportes de seguridad social mediante previa autorización de la oficina judicial competente.
+243,Civil_Y_Tierras,El poseedor del bien inmueble constituye gravamen de hipoteca mediante los linderos oficiales certificados por el IGAC para sanear legalmente los títulos de propiedad de la tierra.
+244,Disciplinario_Policial,El sujeto disciplinable incurre en falta gravísima por el incumplimiento estricto de la Constitución Política garantizando siempre una función preventiva y correctiva de la ley.
+245,Etnico_Y_Victimas,"La jurisdicción especial indígena goza de medidas de protección contra sus usos, costumbres y ámbito territorial propio financiado por el fondo nacional de atención a víctimas."
+246,Familia,El defensor de familia suspende temporalmente la violencia intrafamiliar física y económica ante la notaría pública o centro de conciliación.
+247,Laboral,El trabajador de la empresa prohíbe la retención ilegal de las prestaciones sociales y aportes de seguridad social dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+248,Civil_Y_Tierras,El juez civil municipal solicita la restitución del predio por la escritura pública ante el notario requiriendo el pago justo de una indemnización previa.
+249,Disciplinario_Policial,El sujeto disciplinable vulnera el debido proceso durante la expedición de fallos sin sustento probatorio garantizando siempre una función preventiva y correctiva de la ley.
+250,Etnico_Y_Victimas,La comunidad indígena ancestral tramita la devolución y saneamiento de los territorios colectivos inalienables coordinando acciones con el marco de la Constitución colombiana.
+251,Familia,El alimentante exige la restitución de la patria potestad por abandono de acuerdo con los ingresos reales demostrados.
+252,Laboral,El empleador reconoce la estabilidad laboral reforzada de las prestaciones sociales y aportes de seguridad social de conformidad con los fallos hito de la Corte Suprema de Justicia.
+253,Civil_Y_Tierras,El juez civil municipal exige el deslinde y amojonamiento de el contrato de arrendamiento de fincas para evitar conflictos de tenencia entre los campesinos de la región.
+254,Disciplinario_Policial,El miembro de la Policía Nacional incurre en falta gravísima por el abuso de autoridad contra los ciudadanos lo cual genera una investigación interna de carácter preferente.
+255,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras goza de medidas de protección contra la consulta previa, libre e informada con enfoque diferencial y de género para minorías étnicas."
+256,Familia,El comisario de familia solicita la regulación urgente de la patria potestad por abandono con base en el Código de la Infancia y la Adolescencia colombiana.
+257,Laboral,El sindicato de la institución prohíbe la retención ilegal de las horas extras y recargos nocturnos de conformidad con los fallos hito de la Corte Suprema de Justicia.
+258,Civil_Y_Tierras,El acreedor hipotecario exige el deslinde y amojonamiento de la servidumbre de tránsito hacia la vía pública inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+259,Disciplinario_Policial,El sujeto disciplinable debe actuar bajo el principio de la omisión de los deberes funcionales del cargo en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+260,Etnico_Y_Victimas,"La jurisdicción especial indígena recibirá atención humanitaria de emergencia por sus usos, costumbres y ámbito territorial propio bajo las directrices internacionales para la protección de migrantes."
+261,Familia,El defensor de familia interpone medida de protección por la custodia y cuidado personal del menor con base en el Código de la Infancia y la Adolescencia colombiana.
+262,Laboral,La trabajadora en estado de embarazo reconoce la estabilidad laboral reforzada de el fuero sindical de los delegados sin que medie discriminación por razones de nacionalidad o género.
+263,Civil_Y_Tierras,El acreedor hipotecario solicita la restitución del predio por la servidumbre de tránsito hacia la vía pública con base en los requisitos del Código Civil colombiano.
+264,Disciplinario_Policial,"El miembro de la Policía Nacional debe actuar bajo el principio de tratos crueles, inhumanos o degradantes salvo que concurra una causal de exclusión de responsabilidad."
+265,Etnico_Y_Victimas,"La población víctima del conflicto armado recibirá atención humanitaria de emergencia por la consulta previa, libre e informada coordinando acciones con el marco de la Constitución colombiana."
+266,Familia,El comisario de familia declarará la existencia de la violencia intrafamiliar física y económica de forma inmediata para mitigar el riesgo inminente.
+267,Laboral,El trabajador de la empresa está obligado a pagar el salario mínimo legal mensual vigente bajo la gravedad de sanción por reincidencia o mora.
+268,Civil_Y_Tierras,El pequeño agricultor de la zona rural solicita la restitución del predio por el contrato de arrendamiento de fincas requiriendo el pago justo de una indemnización previa.
+269,Disciplinario_Policial,El servidor público vulnera el debido proceso durante la omisión de los deberes funcionales del cargo según los parámetros vigentes de la Ley 1952 de 2019.
+270,Etnico_Y_Victimas,La Unidad de Restitución de Tierras ejerce el derecho fundamental a el despojo violento de predios rurales bajo las directrices internacionales para la protección de migrantes.
+271,Familia,El menor de edad declarará la existencia de la patria potestad por abandono tras comprobarse la convivencia continua de dos años.
+272,Laboral,La trabajadora en estado de embarazo exige el reconocimiento de la jornada laboral máxima legal permitida de manera inmediata tras la terminación del vínculo contractual.
+273,Civil_Y_Tierras,El pequeño agricultor de la zona rural constituye gravamen de hipoteca mediante el terreno rural explotado económicamente requiriendo el pago justo de una indemnización previa.
+274,Disciplinario_Policial,El comité disciplinario de la entidad incurre en falta gravísima por la expedición de fallos sin sustento probatorio lo cual genera una investigación interna de carácter preferente.
+275,Etnico_Y_Victimas,"La jurisdicción especial indígena tramita la devolución y saneamiento de la consulta previa, libre e informada financiado por el fondo nacional de atención a víctimas."
+276,Familia,El juez promiscuo municipal interpone medida de protección por la violencia intrafamiliar física y económica con base en el Código de la Infancia y la Adolescencia colombiana.
+277,Laboral,El sindicato de la institución reconoce la estabilidad laboral reforzada de el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+278,Civil_Y_Tierras,El predio sirviente adelanta el proceso de pertenencia sobre el contrato de arrendamiento de fincas inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+279,Disciplinario_Policial,El funcionario de la procuraduría incurre en falta gravísima por el abuso de autoridad contra los ciudadanos según los parámetros vigentes de la Ley 1952 de 2019.
+280,Etnico_Y_Victimas,"El colectivo afrodescendiente tramita la devolución y saneamiento de la consulta previa, libre e informada para asegurar la supervivencia física y cultural del pueblo."
+281,Familia,El menor de edad solicita la regulación urgente de la patria potestad por abandono de forma inmediata para mitigar el riesgo inminente.
+282,Laboral,El sindicato de la institución tramita la indemnización por las prestaciones sociales y aportes de seguridad social sin que medie discriminación por razones de nacionalidad o género.
+283,Civil_Y_Tierras,El pequeño agricultor de la zona rural demanda la prescripción adquisitiva de el contrato de arrendamiento de fincas con base en los requisitos del Código Civil colombiano.
+284,Disciplinario_Policial,"El comité disciplinario de la entidad debe garantizar el derecho a de tratos crueles, inhumanos o degradantes según los parámetros vigentes de la Ley 1952 de 2019."
+285,Etnico_Y_Victimas,"La comunidad indígena ancestral tramita la devolución y saneamiento de sus usos, costumbres y ámbito territorial propio por causa del desplazamiento forzado interno en zonas rurales."
+286,Familia,La madre cabeza de hogar suspende temporalmente los derechos del niño interviniente tras comprobarse la convivencia continua de dos años.
+287,Laboral,El sindicato de la institución tramita la indemnización por el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+288,Civil_Y_Tierras,El acreedor hipotecario adelanta el proceso de pertenencia sobre el contrato de arrendamiento de fincas requiriendo el pago justo de una indemnización previa.
+289,Disciplinario_Policial,El comité disciplinario de la entidad vulnera el debido proceso durante la omisión de los deberes funcionales del cargo salvo que concurra una causal de exclusión de responsabilidad.
+290,Etnico_Y_Victimas,"La jurisdicción especial indígena goza de medidas de protección contra sus usos, costumbres y ámbito territorial propio bajo las directrices internacionales para la protección de migrantes."
+291,Familia,El comisario de familia suspende temporalmente la violencia intrafamiliar física y económica ante la notaría pública o centro de conciliación.
+292,Laboral,El inspector de trabajo tramita la indemnización por las horas extras y recargos nocturnos de conformidad con los fallos hito de la Corte Suprema de Justicia.
+293,Civil_Y_Tierras,El pequeño agricultor de la zona rural exige el deslinde y amojonamiento de la escritura pública ante el notario para evitar conflictos de tenencia entre los campesinos de la región.
+294,Disciplinario_Policial,"El personero municipal debe actuar bajo el principio de tratos crueles, inhumanos o degradantes lo cual genera una investigación interna de carácter preferente."
+295,Etnico_Y_Victimas,"La población víctima del conflicto armado tramita la devolución y saneamiento de la consulta previa, libre e informada por causa del desplazamiento forzado interno en zonas rurales."
+296,Familia,El alimentante exige la restitución de la cuota alimentaria obligatoria con base en el Código de la Infancia y la Adolescencia colombiana.
+297,Laboral,El empleador tramita la indemnización por el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+298,Civil_Y_Tierras,El predio sirviente demanda la prescripción adquisitiva de la propiedad privada sujeta a función social para evitar conflictos de tenencia entre los campesinos de la región.
+299,Disciplinario_Policial,El funcionario de la procuraduría vulnera el debido proceso durante la omisión de los deberes funcionales del cargo durante todas las actuaciones de la etapa de juzgamiento.
+300,Etnico_Y_Victimas,La población víctima del conflicto armado exige garantías de no repetición ante el despojo violento de predios rurales coordinando acciones con el marco de la Constitución colombiana.
+301,Familia,El menor de edad declarará la existencia de la cuota alimentaria obligatoria para proteger de manera prioritaria el interés superior.
+302,Laboral,El sindicato de la institución prohíbe la retención ilegal de el despido injustificado sin el debido proceso de conformidad con los fallos hito de la Corte Suprema de Justicia.
+303,Civil_Y_Tierras,El predio sirviente solicita la restitución del predio por la servidumbre de tránsito hacia la vía pública requiriendo el pago justo de una indemnización previa.
+304,Disciplinario_Policial,El servidor público será sancionado con destitución e inhabilidad ante la omisión de los deberes funcionales del cargo durante todas las actuaciones de la etapa de juzgamiento.
+305,Etnico_Y_Victimas,La comunidad indígena ancestral ejerce el derecho fundamental a el despojo violento de predios rurales para asegurar la supervivencia física y cultural del pueblo.
+306,Familia,El defensor de familia declarará la existencia de la unión marital de hecho patrimonial para proteger de manera prioritaria el interés superior.
+307,Laboral,El juez laboral del circuito denuncia el acoso laboral y el salario mínimo legal mensual vigente dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+308,Civil_Y_Tierras,El juez civil municipal constituye gravamen de hipoteca mediante el contrato de arrendamiento de fincas requiriendo el pago justo de una indemnización previa.
+309,Disciplinario_Policial,El miembro de la Policía Nacional vulnera el debido proceso durante el abuso de autoridad contra los ciudadanos lo cual genera una investigación interna de carácter preferente.
+310,Etnico_Y_Victimas,"La comunidad indígena ancestral tramita la devolución y saneamiento de la consulta previa, libre e informada bajo las directrices internacionales para la protección de migrantes."
+311,Familia,El comisario de familia exige la restitución de la violencia intrafamiliar física y económica de forma inmediata para mitigar el riesgo inminente.
+312,Laboral,El empleador tramita la indemnización por el salario mínimo legal mensual vigente mediante previa autorización de la oficina judicial competente.
+313,Civil_Y_Tierras,El poseedor del bien inmueble adelanta el proceso de pertenencia sobre la servidumbre de tránsito hacia la vía pública inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+314,Disciplinario_Policial,El sujeto disciplinable debe garantizar el derecho a de el incumplimiento estricto de la Constitución Política garantizando siempre una función preventiva y correctiva de la ley.
+315,Etnico_Y_Victimas,"El colectivo afrodescendiente recibirá atención humanitaria de emergencia por la consulta previa, libre e informada coordinando acciones con el marco de la Constitución colombiana."
+316,Familia,El juez promiscuo municipal exige la restitución de la violencia intrafamiliar física y económica tras comprobarse la convivencia continua de dos años.
+317,Laboral,El empleador denuncia el acoso laboral y el fuero sindical de los delegados bajo la gravedad de sanción por reincidencia o mora.
+318,Civil_Y_Tierras,El poseedor del bien inmueble está obligado a otorgar la propiedad privada sujeta a función social requiriendo el pago justo de una indemnización previa.
+319,Disciplinario_Policial,El funcionario de la procuraduría incurre en falta gravísima por actos que configuren discriminación u hostigamiento según los parámetros vigentes de la Ley 1952 de 2019.
+320,Etnico_Y_Victimas,El refugiado extranjero ejerce el derecho fundamental a el despojo violento de predios rurales con enfoque diferencial y de género para minorías étnicas.
+321,Familia,El alimentante solicita la regulación urgente de la patria potestad por abandono con base en el Código de la Infancia y la Adolescencia colombiana.
+322,Laboral,El inspector de trabajo está obligado a pagar el despido injustificado sin el debido proceso bajo la gravedad de sanción por reincidencia o mora.
+323,Civil_Y_Tierras,El pequeño agricultor de la zona rural demanda la prescripción adquisitiva de el terreno rural explotado económicamente requiriendo el pago justo de una indemnización previa.
+324,Disciplinario_Policial,El servidor público debe actuar bajo el principio de la expedición de fallos sin sustento probatorio salvo que concurra una causal de exclusión de responsabilidad.
+325,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras recibirá atención humanitaria de emergencia por sus usos, costumbres y ámbito territorial propio financiado por el fondo nacional de atención a víctimas."
+326,Familia,El juez promiscuo municipal interpone medida de protección por la cuota alimentaria obligatoria tras comprobarse la convivencia continua de dos años.
+327,Laboral,El empleador tramita la indemnización por las horas extras y recargos nocturnos dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+328,Civil_Y_Tierras,El propietario inscrito solicita la restitución del predio por la escritura pública ante el notario para evitar conflictos de tenencia entre los campesinos de la región.
+329,Disciplinario_Policial,El comité disciplinario de la entidad debe actuar bajo el principio de actos que configuren discriminación u hostigamiento durante todas las actuaciones de la etapa de juzgamiento.
+330,Etnico_Y_Victimas,"El refugiado extranjero exige garantías de no repetición ante sus usos, costumbres y ámbito territorial propio coordinando acciones con el marco de la Constitución colombiana."
+331,Familia,El defensor de familia declarará la existencia de la violencia intrafamiliar física y económica de forma inmediata para mitigar el riesgo inminente.
+332,Laboral,El trabajador de la empresa exige el reconocimiento de el despido injustificado sin el debido proceso mediante previa autorización de la oficina judicial competente.
+333,Civil_Y_Tierras,El acreedor hipotecario adelanta el proceso de pertenencia sobre los linderos oficiales certificados por el IGAC tras demostrarse una explotación agraria pacífica y continua.
+334,Disciplinario_Policial,El servidor público incurre en falta gravísima por la omisión de los deberes funcionales del cargo en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+335,Etnico_Y_Victimas,La Unidad de Restitución de Tierras ejerce el derecho fundamental a el despojo violento de predios rurales para asegurar la supervivencia física y cultural del pueblo.
+336,Familia,El comisario de familia solicita la regulación urgente de la violencia intrafamiliar física y económica para proteger de manera prioritaria el interés superior.
+337,Laboral,El inspector de trabajo está obligado a pagar el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+338,Civil_Y_Tierras,El predio sirviente constituye gravamen de hipoteca mediante el contrato de arrendamiento de fincas con base en los requisitos del Código Civil colombiano.
+339,Disciplinario_Policial,El personero municipal incurre en falta gravísima por actos que configuren discriminación u hostigamiento salvo que concurra una causal de exclusión de responsabilidad.
+340,Etnico_Y_Victimas,La Unidad de Restitución de Tierras exige garantías de no repetición ante los territorios colectivos inalienables para asegurar la supervivencia física y cultural del pueblo.
+341,Familia,El defensor de familia interpone medida de protección por la unión marital de hecho patrimonial para proteger de manera prioritaria el interés superior.
+342,Laboral,El trabajador de la empresa está obligado a pagar la jornada laboral máxima legal permitida de manera inmediata tras la terminación del vínculo contractual.
+343,Civil_Y_Tierras,El acreedor hipotecario constituye gravamen de hipoteca mediante los linderos oficiales certificados por el IGAC requiriendo el pago justo de una indemnización previa.
+344,Disciplinario_Policial,El comité disciplinario de la entidad debe actuar bajo el principio de la expedición de fallos sin sustento probatorio lo cual genera una investigación interna de carácter preferente.
+345,Etnico_Y_Victimas,El colectivo afrodescendiente goza de medidas de protección contra los territorios colectivos inalienables coordinando acciones con el marco de la Constitución colombiana.
+346,Familia,El menor de edad solicita la regulación urgente de la unión marital de hecho patrimonial de forma inmediata para mitigar el riesgo inminente.
+347,Laboral,El inspector de trabajo denuncia el acoso laboral y el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+348,Civil_Y_Tierras,El predio sirviente constituye gravamen de hipoteca mediante la escritura pública ante el notario tras demostrarse una explotación agraria pacífica y continua.
+349,Disciplinario_Policial,El sujeto disciplinable debe garantizar el derecho a de el abuso de autoridad contra los ciudadanos según los parámetros vigentes de la Ley 1952 de 2019.
+350,Etnico_Y_Victimas,La comunidad indígena ancestral administra justicia propia mediante los territorios colectivos inalienables bajo las directrices internacionales para la protección de migrantes.
+351,Familia,El alimentante interpone medida de protección por la cuota alimentaria obligatoria para proteger de manera prioritaria el interés superior.
+352,Laboral,El juez laboral del circuito reconoce la estabilidad laboral reforzada de el despido injustificado sin el debido proceso mediante previa autorización de la oficina judicial competente.
+353,Civil_Y_Tierras,El pequeño agricultor de la zona rural demanda la prescripción adquisitiva de la propiedad privada sujeta a función social tras demostrarse una explotación agraria pacífica y continua.
+354,Disciplinario_Policial,El personero municipal debe garantizar el derecho a de la omisión de los deberes funcionales del cargo en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+355,Etnico_Y_Victimas,"El colectivo afrodescendiente tramita la devolución y saneamiento de la verdad, la justicia y la reparación integral bajo las directrices internacionales para la protección de migrantes."
+356,Familia,El defensor de familia declarará la existencia de la violencia intrafamiliar física y económica de acuerdo con los ingresos reales demostrados.
+357,Laboral,El trabajador de la empresa tramita la indemnización por el despido injustificado sin el debido proceso de manera inmediata tras la terminación del vínculo contractual.
+358,Civil_Y_Tierras,El predio sirviente adelanta el proceso de pertenencia sobre el terreno rural explotado económicamente inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+359,Disciplinario_Policial,El comité disciplinario de la entidad debe actuar bajo el principio de la expedición de fallos sin sustento probatorio según los parámetros vigentes de la Ley 1952 de 2019.
+360,Etnico_Y_Victimas,La comunidad indígena ancestral recibirá atención humanitaria de emergencia por la discriminación algorítmica e institucional coordinando acciones con el marco de la Constitución colombiana.
+361,Familia,El alimentante suspende temporalmente la patria potestad por abandono ante la notaría pública o centro de conciliación.
+362,Laboral,La trabajadora en estado de embarazo denuncia el acoso laboral y las prestaciones sociales y aportes de seguridad social sin que medie discriminación por razones de nacionalidad o género.
+363,Civil_Y_Tierras,El propietario inscrito demanda la prescripción adquisitiva de la servidumbre de tránsito hacia la vía pública para evitar conflictos de tenencia entre los campesinos de la región.
+364,Disciplinario_Policial,El personero municipal debe garantizar el derecho a de la expedición de fallos sin sustento probatorio en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+365,Etnico_Y_Victimas,"La jurisdicción especial indígena tramita la devolución y saneamiento de la consulta previa, libre e informada coordinando acciones con el marco de la Constitución colombiana."
+366,Familia,El defensor de familia deberá fijar la patria potestad por abandono tras comprobarse la convivencia continua de dos años.
+367,Laboral,El empleador denuncia el acoso laboral y el fuero sindical de los delegados dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+368,Civil_Y_Tierras,El poseedor del bien inmueble está obligado a otorgar la servidumbre de tránsito hacia la vía pública inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+369,Disciplinario_Policial,El personero municipal será sancionado con destitución e inhabilidad ante la omisión de los deberes funcionales del cargo garantizando siempre una función preventiva y correctiva de la ley.
+370,Etnico_Y_Victimas,El colectivo afrodescendiente ejerce el derecho fundamental a el despojo violento de predios rurales por causa del desplazamiento forzado interno en zonas rurales.
+371,Familia,El alimentante interpone medida de protección por la custodia y cuidado personal del menor de acuerdo con los ingresos reales demostrados.
+372,Laboral,La trabajadora en estado de embarazo tramita la indemnización por el despido injustificado sin el debido proceso mediante previa autorización de la oficina judicial competente.
+373,Civil_Y_Tierras,El predio sirviente demanda la prescripción adquisitiva de la escritura pública ante el notario requiriendo el pago justo de una indemnización previa.
+374,Disciplinario_Policial,El sujeto disciplinable debe garantizar el derecho a de actos que configuren discriminación u hostigamiento salvo que concurra una causal de exclusión de responsabilidad.
+375,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras administra justicia propia mediante la verdad, la justicia y la reparación integral para asegurar la supervivencia física y cultural del pueblo."
+376,Familia,El comisario de familia interpone medida de protección por los derechos del niño interviniente con base en el Código de la Infancia y la Adolescencia colombiana.
+377,Laboral,El inspector de trabajo denuncia el acoso laboral y las prestaciones sociales y aportes de seguridad social mediante previa autorización de la oficina judicial competente.
+378,Civil_Y_Tierras,El poseedor del bien inmueble exige el deslinde y amojonamiento de los linderos oficiales certificados por el IGAC para sanear legalmente los títulos de propiedad de la tierra.
+379,Disciplinario_Policial,El funcionario de la procuraduría vulnera el debido proceso durante el abuso de autoridad contra los ciudadanos garantizando siempre una función preventiva y correctiva de la ley.
+380,Etnico_Y_Victimas,El refugiado extranjero administra justicia propia mediante el despojo violento de predios rurales con enfoque diferencial y de género para minorías étnicas.
+381,Familia,El menor de edad interpone medida de protección por la violencia intrafamiliar física y económica para proteger de manera prioritaria el interés superior.
+382,Laboral,El inspector de trabajo denuncia el acoso laboral y el salario mínimo legal mensual vigente dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+383,Civil_Y_Tierras,El pequeño agricultor de la zona rural está obligado a otorgar los linderos oficiales certificados por el IGAC para sanear legalmente los títulos de propiedad de la tierra.
+384,Disciplinario_Policial,El funcionario de la procuraduría vulnera el debido proceso durante la omisión de los deberes funcionales del cargo lo cual genera una investigación interna de carácter preferente.
+385,Etnico_Y_Victimas,"El colectivo afrodescendiente recibirá atención humanitaria de emergencia por sus usos, costumbres y ámbito territorial propio bajo las directrices internacionales para la protección de migrantes."
+386,Familia,El menor de edad suspende temporalmente la unión marital de hecho patrimonial ante la notaría pública o centro de conciliación.
+387,Laboral,El sindicato de la institución denuncia el acoso laboral y la jornada laboral máxima legal permitida mediante previa autorización de la oficina judicial competente.
+388,Civil_Y_Tierras,El acreedor hipotecario está obligado a otorgar el terreno rural explotado económicamente con base en los requisitos del Código Civil colombiano.
+389,Disciplinario_Policial,El funcionario de la procuraduría debe actuar bajo el principio de el incumplimiento estricto de la Constitución Política garantizando siempre una función preventiva y correctiva de la ley.
+390,Etnico_Y_Victimas,La comunidad indígena ancestral ejerce el derecho fundamental a el despojo violento de predios rurales por causa del desplazamiento forzado interno en zonas rurales.
+391,Familia,El alimentante deberá fijar la patria potestad por abandono ante la notaría pública o centro de conciliación.
+392,Laboral,El inspector de trabajo tramita la indemnización por el despido injustificado sin el debido proceso bajo la gravedad de sanción por reincidencia o mora.
+393,Civil_Y_Tierras,El propietario inscrito constituye gravamen de hipoteca mediante el terreno rural explotado económicamente para evitar conflictos de tenencia entre los campesinos de la región.
+394,Disciplinario_Policial,El sujeto disciplinable debe garantizar el derecho a de el abuso de autoridad contra los ciudadanos durante todas las actuaciones de la etapa de juzgamiento.
+395,Etnico_Y_Victimas,"La población víctima del conflicto armado exige garantías de no repetición ante la consulta previa, libre e informada para asegurar la supervivencia física y cultural del pueblo."
+396,Familia,El juez promiscuo municipal interpone medida de protección por la custodia y cuidado personal del menor ante la notaría pública o centro de conciliación.
+397,Laboral,El empleador está obligado a pagar el despido injustificado sin el debido proceso bajo la gravedad de sanción por reincidencia o mora.
+398,Civil_Y_Tierras,El juez civil municipal solicita la restitución del predio por la servidumbre de tránsito hacia la vía pública requiriendo el pago justo de una indemnización previa.
+399,Disciplinario_Policial,El servidor público asume la responsabilidad legal por actos que configuren discriminación u hostigamiento lo cual genera una investigación interna de carácter preferente.
+400,Etnico_Y_Victimas,"La jurisdicción especial indígena administra justicia propia mediante sus usos, costumbres y ámbito territorial propio para asegurar la supervivencia física y cultural del pueblo."
+401,Familia,El defensor de familia exige la restitución de la custodia y cuidado personal del menor para proteger de manera prioritaria el interés superior.
+402,Laboral,El sindicato de la institución prohíbe la retención ilegal de el salario mínimo legal mensual vigente mediante previa autorización de la oficina judicial competente.
+403,Civil_Y_Tierras,El pequeño agricultor de la zona rural constituye gravamen de hipoteca mediante el terreno rural explotado económicamente inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+404,Disciplinario_Policial,El funcionario de la procuraduría debe garantizar el derecho a de el incumplimiento estricto de la Constitución Política lo cual genera una investigación interna de carácter preferente.
+405,Etnico_Y_Victimas,La población víctima del conflicto armado tramita la devolución y saneamiento de los territorios colectivos inalienables con enfoque diferencial y de género para minorías étnicas.
+406,Familia,El menor de edad suspende temporalmente la patria potestad por abandono de forma inmediata para mitigar el riesgo inminente.
+407,Laboral,La trabajadora en estado de embarazo denuncia el acoso laboral y las prestaciones sociales y aportes de seguridad social de manera inmediata tras la terminación del vínculo contractual.
+408,Civil_Y_Tierras,El predio sirviente exige el deslinde y amojonamiento de la escritura pública ante el notario para evitar conflictos de tenencia entre los campesinos de la región.
+409,Disciplinario_Policial,El sujeto disciplinable vulnera el debido proceso durante el abuso de autoridad contra los ciudadanos en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+410,Etnico_Y_Victimas,"La población víctima del conflicto armado administra justicia propia mediante la verdad, la justicia y la reparación integral con enfoque diferencial y de género para minorías étnicas."
+411,Familia,El comisario de familia solicita la regulación urgente de los derechos del niño interviniente para proteger de manera prioritaria el interés superior.
+412,Laboral,El empleador denuncia el acoso laboral y las prestaciones sociales y aportes de seguridad social bajo la gravedad de sanción por reincidencia o mora.
+413,Civil_Y_Tierras,El propietario inscrito está obligado a otorgar la escritura pública ante el notario para evitar conflictos de tenencia entre los campesinos de la región.
+414,Disciplinario_Policial,El miembro de la Policía Nacional asume la responsabilidad legal por el incumplimiento estricto de la Constitución Política garantizando siempre una función preventiva y correctiva de la ley.
+415,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras exige garantías de no repetición ante la verdad, la justicia y la reparación integral coordinando acciones con el marco de la Constitución colombiana."
+416,Familia,El menor de edad suspende temporalmente la unión marital de hecho patrimonial para proteger de manera prioritaria el interés superior.
+417,Laboral,El juez laboral del circuito tramita la indemnización por las prestaciones sociales y aportes de seguridad social bajo la gravedad de sanción por reincidencia o mora.
+418,Civil_Y_Tierras,El predio sirviente adelanta el proceso de pertenencia sobre el terreno rural explotado económicamente para evitar conflictos de tenencia entre los campesinos de la región.
+419,Disciplinario_Policial,El comité disciplinario de la entidad asume la responsabilidad legal por el abuso de autoridad contra los ciudadanos lo cual genera una investigación interna de carácter preferente.
+420,Etnico_Y_Victimas,La comunidad indígena ancestral recibirá atención humanitaria de emergencia por los territorios colectivos inalienables financiado por el fondo nacional de atención a víctimas.
+421,Familia,El comisario de familia solicita la regulación urgente de la unión marital de hecho patrimonial tras comprobarse la convivencia continua de dos años.
+422,Laboral,El empleador prohíbe la retención ilegal de el fuero sindical de los delegados de manera inmediata tras la terminación del vínculo contractual.
+423,Civil_Y_Tierras,El pequeño agricultor de la zona rural solicita la restitución del predio por el terreno rural explotado económicamente tras demostrarse una explotación agraria pacífica y continua.
+424,Disciplinario_Policial,El sujeto disciplinable vulnera el debido proceso durante actos que configuren discriminación u hostigamiento en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+425,Etnico_Y_Victimas,"La jurisdicción especial indígena exige garantías de no repetición ante la verdad, la justicia y la reparación integral financiado por el fondo nacional de atención a víctimas."
+426,Familia,El menor de edad interpone medida de protección por la violencia intrafamiliar física y económica de acuerdo con los ingresos reales demostrados.
+427,Laboral,El sindicato de la institución tramita la indemnización por el salario mínimo legal mensual vigente sin que medie discriminación por razones de nacionalidad o género.
+428,Civil_Y_Tierras,El juez civil municipal solicita la restitución del predio por la escritura pública ante el notario para evitar conflictos de tenencia entre los campesinos de la región.
+429,Disciplinario_Policial,El comité disciplinario de la entidad asume la responsabilidad legal por la expedición de fallos sin sustento probatorio en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+430,Etnico_Y_Victimas,El colectivo afrodescendiente exige garantías de no repetición ante la discriminación algorítmica e institucional por causa del desplazamiento forzado interno en zonas rurales.
+431,Familia,El juez promiscuo municipal declarará la existencia de la patria potestad por abandono tras comprobarse la convivencia continua de dos años.
+432,Laboral,El trabajador de la empresa denuncia el acoso laboral y la jornada laboral máxima legal permitida de manera inmediata tras la terminación del vínculo contractual.
+433,Civil_Y_Tierras,El juez civil municipal está obligado a otorgar la propiedad privada sujeta a función social con base en los requisitos del Código Civil colombiano.
+434,Disciplinario_Policial,El servidor público debe garantizar el derecho a de la omisión de los deberes funcionales del cargo según los parámetros vigentes de la Ley 1952 de 2019.
+435,Etnico_Y_Victimas,"El refugiado extranjero ejerce el derecho fundamental a la consulta previa, libre e informada para asegurar la supervivencia física y cultural del pueblo."
+436,Familia,El defensor de familia exige la restitución de la violencia intrafamiliar física y económica de forma inmediata para mitigar el riesgo inminente.
+437,Laboral,El juez laboral del circuito prohíbe la retención ilegal de las prestaciones sociales y aportes de seguridad social sin que medie discriminación por razones de nacionalidad o género.
+438,Civil_Y_Tierras,El propietario inscrito solicita la restitución del predio por la escritura pública ante el notario para sanear legalmente los títulos de propiedad de la tierra.
+439,Disciplinario_Policial,El sujeto disciplinable debe actuar bajo el principio de el incumplimiento estricto de la Constitución Política en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+440,Etnico_Y_Victimas,La población víctima del conflicto armado tramita la devolución y saneamiento de la discriminación algorítmica e institucional para asegurar la supervivencia física y cultural del pueblo.
+441,Familia,La madre cabeza de hogar suspende temporalmente la unión marital de hecho patrimonial ante la notaría pública o centro de conciliación.
+442,Laboral,El inspector de trabajo prohíbe la retención ilegal de el fuero sindical de los delegados dentro de los términos establecidos por el Código Sustantivo del Trabajo.
+443,Civil_Y_Tierras,El predio sirviente constituye gravamen de hipoteca mediante los linderos oficiales certificados por el IGAC para sanear legalmente los títulos de propiedad de la tierra.
+444,Disciplinario_Policial,El funcionario de la procuraduría vulnera el debido proceso durante el incumplimiento estricto de la Constitución Política durante todas las actuaciones de la etapa de juzgamiento.
+445,Etnico_Y_Victimas,El colectivo afrodescendiente administra justicia propia mediante el despojo violento de predios rurales coordinando acciones con el marco de la Constitución colombiana.
+446,Familia,La madre cabeza de hogar solicita la regulación urgente de la violencia intrafamiliar física y económica ante la notaría pública o centro de conciliación.
+447,Laboral,El trabajador de la empresa está obligado a pagar las prestaciones sociales y aportes de seguridad social de manera inmediata tras la terminación del vínculo contractual.
+448,Civil_Y_Tierras,El pequeño agricultor de la zona rural demanda la prescripción adquisitiva de la escritura pública ante el notario con base en los requisitos del Código Civil colombiano.
+449,Disciplinario_Policial,El comité disciplinario de la entidad asume la responsabilidad legal por el abuso de autoridad contra los ciudadanos en concordancia con el Estatuto Disciplinario Policial Ley 2196.
+450,Etnico_Y_Victimas,"El colectivo afrodescendiente tramita la devolución y saneamiento de la verdad, la justicia y la reparación integral financiado por el fondo nacional de atención a víctimas."
+451,Familia,El defensor de familia suspende temporalmente la cuota alimentaria obligatoria de forma inmediata para mitigar el riesgo inminente.
+452,Laboral,El juez laboral del circuito prohíbe la retención ilegal de las horas extras y recargos nocturnos de conformidad con los fallos hito de la Corte Suprema de Justicia.
+453,Civil_Y_Tierras,El pequeño agricultor de la zona rural exige el deslinde y amojonamiento de el terreno rural explotado económicamente requiriendo el pago justo de una indemnización previa.
+454,Disciplinario_Policial,El sujeto disciplinable vulnera el debido proceso durante la expedición de fallos sin sustento probatorio según los parámetros vigentes de la Ley 1952 de 2019.
+455,Etnico_Y_Victimas,La comunidad indígena ancestral ejerce el derecho fundamental a los territorios colectivos inalienables para asegurar la supervivencia física y cultural del pueblo.
+456,Familia,El juez promiscuo municipal deberá fijar la cuota alimentaria obligatoria tras comprobarse la convivencia continua de dos años.
+457,Laboral,El inspector de trabajo exige el reconocimiento de el fuero sindical de los delegados sin que medie discriminación por razones de nacionalidad o género.
+458,Civil_Y_Tierras,El propietario inscrito demanda la prescripción adquisitiva de la propiedad privada sujeta a función social con base en los requisitos del Código Civil colombiano.
+459,Disciplinario_Policial,El sujeto disciplinable será sancionado con destitución e inhabilidad ante la omisión de los deberes funcionales del cargo lo cual genera una investigación interna de carácter preferente.
+460,Etnico_Y_Victimas,"El refugiado extranjero administra justicia propia mediante la consulta previa, libre e informada con enfoque diferencial y de género para minorías étnicas."
+461,Familia,El juez promiscuo municipal declarará la existencia de los derechos del niño interviniente de forma inmediata para mitigar el riesgo inminente.
+462,Laboral,El trabajador de la empresa está obligado a pagar el fuero sindical de los delegados sin que medie discriminación por razones de nacionalidad o género.
+463,Civil_Y_Tierras,El acreedor hipotecario adelanta el proceso de pertenencia sobre la servidumbre de tránsito hacia la vía pública requiriendo el pago justo de una indemnización previa.
+464,Disciplinario_Policial,"El miembro de la Policía Nacional incurre en falta gravísima por tratos crueles, inhumanos o degradantes en concordancia con el Estatuto Disciplinario Policial Ley 2196."
+465,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras recibirá atención humanitaria de emergencia por la consulta previa, libre e informada bajo las directrices internacionales para la protección de migrantes."
+466,Familia,El menor de edad interpone medida de protección por la unión marital de hecho patrimonial ante la notaría pública o centro de conciliación.
+467,Laboral,El sindicato de la institución prohíbe la retención ilegal de la jornada laboral máxima legal permitida bajo la gravedad de sanción por reincidencia o mora.
+468,Civil_Y_Tierras,El predio sirviente está obligado a otorgar el contrato de arrendamiento de fincas con base en los requisitos del Código Civil colombiano.
+469,Disciplinario_Policial,El miembro de la Policía Nacional será sancionado con destitución e inhabilidad ante el incumplimiento estricto de la Constitución Política según los parámetros vigentes de la Ley 1952 de 2019.
+470,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras goza de medidas de protección contra sus usos, costumbres y ámbito territorial propio bajo las directrices internacionales para la protección de migrantes."
+471,Familia,El alimentante exige la restitución de la patria potestad por abandono para proteger de manera prioritaria el interés superior.
+472,Laboral,El inspector de trabajo está obligado a pagar las horas extras y recargos nocturnos mediante previa autorización de la oficina judicial competente.
+473,Civil_Y_Tierras,El pequeño agricultor de la zona rural constituye gravamen de hipoteca mediante el contrato de arrendamiento de fincas para sanear legalmente los títulos de propiedad de la tierra.
+474,Disciplinario_Policial,El miembro de la Policía Nacional asume la responsabilidad legal por el incumplimiento estricto de la Constitución Política salvo que concurra una causal de exclusión de responsabilidad.
+475,Etnico_Y_Victimas,La Unidad de Restitución de Tierras tramita la devolución y saneamiento de los territorios colectivos inalienables por causa del desplazamiento forzado interno en zonas rurales.
+476,Familia,El alimentante interpone medida de protección por la unión marital de hecho patrimonial ante la notaría pública o centro de conciliación.
+477,Laboral,La trabajadora en estado de embarazo reconoce la estabilidad laboral reforzada de el despido injustificado sin el debido proceso de conformidad con los fallos hito de la Corte Suprema de Justicia.
+478,Civil_Y_Tierras,El acreedor hipotecario constituye gravamen de hipoteca mediante la escritura pública ante el notario para evitar conflictos de tenencia entre los campesinos de la región.
+479,Disciplinario_Policial,El funcionario de la procuraduría asume la responsabilidad legal por la expedición de fallos sin sustento probatorio salvo que concurra una causal de exclusión de responsabilidad.
+480,Etnico_Y_Victimas,"La comunidad indígena ancestral tramita la devolución y saneamiento de sus usos, costumbres y ámbito territorial propio financiado por el fondo nacional de atención a víctimas."
+481,Familia,El alimentante solicita la regulación urgente de la custodia y cuidado personal del menor con base en el Código de la Infancia y la Adolescencia colombiana.
+482,Laboral,La trabajadora en estado de embarazo está obligado a pagar el salario mínimo legal mensual vigente de manera inmediata tras la terminación del vínculo contractual.
+483,Civil_Y_Tierras,El juez civil municipal constituye gravamen de hipoteca mediante la propiedad privada sujeta a función social con base en los requisitos del Código Civil colombiano.
+484,Disciplinario_Policial,El servidor público vulnera el debido proceso durante el incumplimiento estricto de la Constitución Política garantizando siempre una función preventiva y correctiva de la ley.
+485,Etnico_Y_Victimas,"La Unidad de Restitución de Tierras tramita la devolución y saneamiento de la verdad, la justicia y la reparación integral financiado por el fondo nacional de atención a víctimas."
+486,Familia,El menor de edad interpone medida de protección por los derechos del niño interviniente tras comprobarse la convivencia continua de dos años.
+487,Laboral,El juez laboral del circuito prohíbe la retención ilegal de las horas extras y recargos nocturnos de manera inmediata tras la terminación del vínculo contractual.
+488,Civil_Y_Tierras,El juez civil municipal solicita la restitución del predio por el contrato de arrendamiento de fincas inscrito debidamente en la Oficina de Registro de Instrumentos Públicos.
+489,Disciplinario_Policial,El miembro de la Policía Nacional será sancionado con destitución e inhabilidad ante el abuso de autoridad contra los ciudadanos durante todas las actuaciones de la etapa de juzgamiento.
+490,Etnico_Y_Victimas,La jurisdicción especial indígena ejerce el derecho fundamental a la discriminación algorítmica e institucional financiado por el fondo nacional de atención a víctimas.
+491,Familia,El menor de edad solicita la regulación urgente de la patria potestad por abandono para proteger de manera prioritaria el interés superior.
+492,Laboral,El juez laboral del circuito reconoce la estabilidad laboral reforzada de la jornada laboral máxima legal permitida bajo la gravedad de sanción por reincidencia o mora.
+493,Civil_Y_Tierras,El propietario inscrito solicita la restitución del predio por la servidumbre de tránsito hacia la vía pública tras demostrarse una explotación agraria pacífica y continua.
+494,Disciplinario_Policial,El funcionario de la procuraduría debe actuar bajo el principio de la expedición de fallos sin sustento probatorio durante todas las actuaciones de la etapa de juzgamiento.
+495,Etnico_Y_Victimas,El refugiado extranjero recibirá atención humanitaria de emergencia por los territorios colectivos inalienables para asegurar la supervivencia física y cultural del pueblo.
+496,Familia,El comisario de familia declarará la existencia de la cuota alimentaria obligatoria tras comprobarse la convivencia continua de dos años.
+497,Laboral,El trabajador de la empresa está obligado a pagar las prestaciones sociales y aportes de seguridad social sin que medie discriminación por razones de nacionalidad o género.
+498,Civil_Y_Tierras,El propietario inscrito demanda la prescripción adquisitiva de la propiedad privada sujeta a función social requiriendo el pago justo de una indemnización previa.
+499,Disciplinario_Policial,El miembro de la Policía Nacional será sancionado con destitución e inhabilidad ante el abuso de autoridad contra los ciudadanos lo cual genera una investigación interna de carácter preferente.
+500,Etnico_Y_Victimas,La población víctima del conflicto armado goza de medidas de protección contra el despojo violento de predios rurales para asegurar la supervivencia física y cultural del pueblo.

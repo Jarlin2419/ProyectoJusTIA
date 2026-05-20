@@ -6,6 +6,7 @@ Autor: Estudiante de Posgrado
 
 import pandas as pd
 import random
+import os  # Importamos os para el manejo seguro de carpetas
 
 # Definición de componentes gramaticales por rama del derecho para garantizar coherencia
 componentes_legales = {
@@ -43,7 +44,7 @@ componentes_legales = {
 
 def generar_fragmento_unico(rama):
     """Construye un fragmento jurídico seleccionando elementos al azar de una rama."""
-    comp = componentes_legales[rama]
+    comp = components = componentes_legales[rama]
     sujeto = random.choice(comp["sujetos"])
     verbo = random.choice(comp["verbos"])
     objeto = random.choice(comp["objetos"])
@@ -74,7 +75,7 @@ while len(textos_unicos) < 500:
         textos_unicos.add(nuevo_texto)
         fragmentos_totales.append({
             "id": contador_id,
-            "rama_derecho": rama_actual, # Esta etiqueta te servirá para entrenar clasificadores más adelante
+            "rama_derecho": rama_actual,
             "texto_original": nuevo_texto
         })
         contador_id += 1
@@ -82,8 +83,17 @@ while len(textos_unicos) < 500:
 # Convertir a DataFrame de Pandas
 df_sintetico = pd.DataFrame(fragmentos_totales)
 
-# Guardar en el formato requerido por tu script de preprocesamiento
-archivo_salida = 'data/corpus_original.csv'
+# ==========================================
+# GESTIÓN SEGURA DE CARPETAS Y SALIDA
+# ==========================================
+carpeta_actual = os.path.dirname(os.path.abspath(__file__))
+carpeta_data = os.path.join(carpeta_actual, "data")
+
+# Crear la carpeta 'data' si no existe en tu espacio de trabajo
+if not os.path.exists(carpeta_data):
+    os.makedirs(carpeta_data)
+
+archivo_salida = os.path.join(carpeta_data, 'corpus_original.csv')
 df_sintetico.to_csv(archivo_salida, index=False, encoding='utf-8')
 
 print(f"¡Éxito! Archivo '{archivo_salida}' creado con 500 fragmentos jurídicos colombianos distribuidos equitativamente.")
